@@ -1,0 +1,25 @@
+.displayCont{
+    display:flex;
+    background-color: #C0E2EE
+}
+
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    gap:60px;
+    width: 100%
+}
+
+.btns{
+    width:50%
+}
+
+.chakra-button{
+    transition: all 1.5s ease;
+}
+
+.chakra-button:hover{
+    color: #63F17D
+}
