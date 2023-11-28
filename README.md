@@ -1,4 +1,4 @@
-# Ejercicio3-React-UTN
+# Ejercicio5-React-UTN
 ## Contador Responsive con Chakra UI y useState
 
 Objetivo: Integrar Chakra UI con useState en React para desarrollar un contador interactivo con diseño responsive.
